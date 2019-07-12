@@ -7,7 +7,6 @@ import 'package:http/http.dart' as http;
 
 import './jsonModel.dart';
 import './DetailScreen.dart';
-import './ListViewWriter.dart';
 
 void main() => runApp(MyApp());
 
